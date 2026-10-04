@@ -1,3 +1,3 @@
 # gitpractice
 just practice git hub
-Author - Kusumesh Talokar
+Author - Kusumesh Talokar (NST Student)
